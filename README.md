@@ -1,2 +1,1 @@
 # merge-practice
-hi
