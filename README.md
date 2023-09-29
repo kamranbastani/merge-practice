@@ -1,2 +1,2 @@
 # merge-practice
-hi
+this is the initial edit
